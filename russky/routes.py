@@ -1,6 +1,6 @@
 import logging
 import uuid
-gfdggh
+
 from fastapi import Request
 from fastapi.responses import HTMLResponse
 from multiavatar.multiavatar import multiavatar
